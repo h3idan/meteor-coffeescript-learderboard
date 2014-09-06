@@ -2,7 +2,9 @@ meteor-coffeescript-learderboard
 ================================
 
 
+
 Current version:
-    1. Meteror v0.9.1
-    1. nodejs v0.10.31
-    1. coffeescript v1.0.2
+--------------------------------
+    Meteror v0.9.1<br />
+    nodejs v0.10.31<br />
+    coffeescript v1.0.2<br />
