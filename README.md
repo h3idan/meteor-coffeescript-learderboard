@@ -1,4 +1,8 @@
 meteor-coffeescript-learderboard
 ================================
 
-use coffeescript recode leaderboard of meteor examples
+
+Current version:
+    Meteror v0.9.1
+    nodejs v0.10.31
+    coffeescript v1.0.2
